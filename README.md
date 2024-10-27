@@ -1,7 +1,7 @@
 # Descent
 Descent Beta Inc 2024
 
-Credits:
+*Credits*:
 
 Builders: alyyssa_
 
